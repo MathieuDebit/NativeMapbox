@@ -9,8 +9,9 @@ git clone git@github.com:MathieuDebit/NativeMapbox.git
 cd NativeMapbox
 npm install
 react-native run-ios
+react-native run-android
 ```
 
-_Not tested on Android yet._
+Change Android SDK path in android/local.properties
 
 ---
